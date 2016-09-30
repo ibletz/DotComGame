@@ -91,7 +91,7 @@ public class GameHelper {
 			
 			alphaCells.add(temp.concat(Integer.toString(row)));
 			x++;
-			// System.out.print (" coord "+x+" = " + alphaCells.get(x-1));
+			//System.out.print (" coord "+x+" = " + alphaCells.get(x-1));
 			/* Above line tells you exactly where the DotCom is located*/
 		}
 		//System.out.println("\n");
